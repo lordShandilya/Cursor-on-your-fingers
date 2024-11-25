@@ -16,8 +16,8 @@ You can install these by using the requirement.txt file provided
 ## Installation
 # 1.Clone the repository
 ```
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone git@github.com:lordShandilya/Cursor-on-your-fingers.git
+cd Cursor-on-your-fingers
 ```
 # 2.Create and Activate a Virtual Environment (Optional but Recommended)
 On Windows
